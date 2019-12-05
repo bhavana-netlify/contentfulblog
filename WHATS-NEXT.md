@@ -1,5 +1,5 @@
 ## Deploy the blog
-A blog on your local machine is nice to have, but a blog on the internet is even better. Return to the [tutorial doc](https://www.contentful.com/developers/docs/tutorials/general/get-started/#deploy-the-starter-gatsby-blog), select a hosting service (Netlify or Heroku) and follow the instructions to deploy.
+A blog on your local machine is nice to have, but a blog on the internet is even better. Return to the [tutorial doc](https://www.contentful.com/developers/docs/tutorials/general/get-started/#deploy-the-starter-gatsby-blog), select a hosting service (Netlify or Heroku) and follow the instructions to deploy. Creating a PR.
 
 ## Explore the blog content structure
 Return to the [tutorial doc](https://www.contentful.com/developers/docs/tutorials/general/get-started/#explore-how-the-sample-website-is-built-with-contentful) to view the relationship between the blog content and the data model.
